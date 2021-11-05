@@ -1,0 +1,3 @@
+﻿  HighLow.cpp
+C:\Users\Manpad\source\repos\HighLow\HighLow\Card.h(12,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  HighLow.vcxproj -> C:\Users\Manpad\source\repos\HighLow\Debug\HighLow.exe
